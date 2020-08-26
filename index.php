@@ -1,2 +1,1 @@
-<?php header( 'Location: /index.html' ) ;  ?>
-<?php echo 'hello' ?>
+<?php header('Location: /index.html');?>
